@@ -2,7 +2,7 @@
 
 <!-- Animasyonlu başlık / Animated header -->
 <a href="https://github.com/Ygty324">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Yi%C4%9Fit+Akt%C3%BCrk+%F0%9F%91%8B;Computer+Vision+%26+Deep+Learning;CNN+%E2%80%A2+GAN+%E2%80%A2+Full-Stack+Developer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Yi%C4%9Fit+%F0%9F%91%8B;Computer+Vision+%26+Deep+Learning;CNN+%E2%80%A2+GAN+%E2%80%A2+Full-Stack+Developer" alt="Typing animation" />
 </a>
 
 </div>
@@ -11,13 +11,13 @@
 
 ### 🇹🇷 Hakkımda
 
-Süleyman Demirel Üniversitesi **Bilgisayar Mühendisliği** mezunuyum. Derin öğrenme ve bilgisayarlı görü alanında, özellikle **CNN** ve **GAN** mimarileri üzerinde çalışıyorum. Yan tarafta full-stack web geliştirme deneyimim de var (React, Next.js, FastAPI).
+Derin öğrenme ve bilgisayarlı görü alanında, özellikle **CNN** ve **GAN** mimarileri üzerinde çalışıyorum. Yan tarafta full-stack web geliştirme deneyimim de var (React, Next.js, FastAPI).
 
 🎯 Şu sıralar üretim kalitesinde ML notebook'ları ve transfer learning tabanlı görüntü sınıflandırma sistemleri geliştiriyorum.
 
 ### 🇬🇧 About Me
 
-Computer Engineering graduate from Süleyman Demirel University. I focus on deep learning and computer vision — particularly **CNN** and **GAN** architectures. I also have full-stack web experience (React, Next.js, FastAPI).
+I focus on deep learning and computer vision — particularly **CNN** and **GAN** architectures. I also have full-stack web experience (React, Next.js, FastAPI).
 
 🎯 Currently building production-quality ML notebooks and transfer learning–based image classification systems.
 
