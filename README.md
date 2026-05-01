@@ -140,7 +140,7 @@ Sahte yüz tespit modeli
 </td>
 <td width="50%" valign="top">
 
-#### 🏞️ [Intel Image Classification](https://github.com/Ygty324/Intel-Image-Classification)
+#### 🏞️ [Intel Image Classification](https://github.com/Ygty324/Intel)
 Doğal sahne sınıflandırma  
 **Grad-CAM** · t-SNE visualizations  
 `EfficientNetB0` `Keras`
