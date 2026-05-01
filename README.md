@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dalgalı animasyonlu başlık / Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Yi%C4%9Fit&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20CNN&descAlignY=60&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Ygty324&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20CNN&descAlignY=60&descSize=16" />
 
 <!-- Animasyonlu yazı / Animated typing -->
 <a href="https://github.com/Ygty324">
