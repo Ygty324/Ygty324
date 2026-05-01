@@ -151,7 +151,7 @@ Doğal sahne sınıflandırma
 <a href="https://github.com/Ygty324">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/LINKEDIN-KULLANICI-ADIN/">
+<a href="https://https://www.linkedin.com/in/yi%C4%9Fit-akt%C3%BCrk-0a42502b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
