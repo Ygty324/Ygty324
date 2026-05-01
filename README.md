@@ -60,8 +60,15 @@ I focus on deep learning and computer vision — particularly **CNN** and **GAN*
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ygty324&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&icon_color=58A6FF&title_color=58A6FF&cache_seconds=86400" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygty324&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF&cache_seconds=86400" />
+<a href="https://github.com/Ygty324">
+  <img alt="Repos" src="https://img.shields.io/badge/Repositories-14-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://github.com/Ygty324?tab=followers">
+  <img alt="Followers" src="https://img.shields.io/github/followers/Ygty324?style=for-the-badge&color=58A6FF&labelColor=0D1117" />
+</a>
+<a href="https://github.com/Ygty324?tab=stars">
+  <img alt="Stars" src="https://img.shields.io/github/stars/Ygty324?style=for-the-badge&color=58A6FF&labelColor=0D1117" />
+</a>
 
 <br><br>
 
